@@ -24,23 +24,23 @@
   "author": "Welinton Subtil <welinton.ti@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^24.0.17",
-    "@types/node": "^12.7.2",
-    "@typescript-eslint/eslint-plugin": "^2.0.0",
-    "@typescript-eslint/parser": "^2.0.0",
-    "eslint": "^6.1.0",
-    "eslint-config-standard": "^13.0.1",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^9.1.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.0",
-    "jest": "^24.8.0",
-    "nodemon": "^1.19.1",
-    "sucrase": "^3.10.1",
-    "ts-jest": "^24.0.2",
-    "typescript": "^3.5.3"
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.6.0",
+    "@typescript-eslint/eslint-plugin": "^8.58.2",
+    "@typescript-eslint/parser": "^8.58.2",
+    "eslint": "^10.2.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^7.2.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "jest": "^30.3.0",
+    "nodemon": "^3.1.14",
+    "sucrase": "^3.35.1",
+    "ts-jest": "^29.4.9",
+    "typescript": "^6.0.3"
   },
   "dependencies": {
-    "tmp": "^0.1.0"
+    "tmp": "^0.2.5"
   }
 }
