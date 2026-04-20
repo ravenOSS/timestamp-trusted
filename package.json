@@ -42,5 +42,13 @@
   },
   "dependencies": {
     "tmp": "^0.2.5"
+  },
+  "resolutions": {
+    "ansi-regex": "^4.1.1",
+    "js-yaml": "^3.14.2",
+    "lodash": "^4.17.21",
+    "minimatch": "^3.1.5",
+    "minimist": "^1.2.8",
+    "thenify": "^3.3.1"
   }
 }
